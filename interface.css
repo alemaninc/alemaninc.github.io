@@ -1,0 +1,8 @@
+body {
+  background-image: repeating-radial-gradient(circle, #190033, #330066 10%, #190033 20%);
+  height:100vh;
+  color: #ffffff
+}
+a {
+  color: #ffff00
+}
