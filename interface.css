@@ -1,9 +1,9 @@
 body {
-  background-image: radial-gradient(circle, #190033, #330066);
+  background-image: repeating-radial-gradient(circle, #190033, #330066 10%, #190033 20%);
   height:100vh;
   color: #ffffff
 }
-a {
+.normal {
   color: #ffff00
 }
 .highlights {
