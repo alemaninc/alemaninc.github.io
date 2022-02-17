@@ -1,8 +1,17 @@
 body {
-  background-image: repeating-radial-gradient(circle, #190033, #330066 10%, #190033 20%);
+  background-image: radial-gradient(circle, #190033, #330066);
   height:100vh;
   color: #ffffff
 }
 a {
   color: #ffff00
+}
+.highlights {
+  color: #00ffff;
+}
+.updated {
+  color: #00ff00;
+}
+.prototype {
+  color: #ff0000;
 }
