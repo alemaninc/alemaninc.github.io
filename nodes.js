@@ -28,7 +28,7 @@ const nodes = [
 		name:"The Ultimate Unit Converter",
 		link:"https://alemaninc.github.io/Ultimate-Unit-Converter/",
 		outline:"One converter to rule them all and in the darkness bind them",
-		description:nodeBulletPointGenerator(["Have you ever found yourself needing to convert between megalines and maxwells? Probably not.","But if you ever do, we have the solution.","Convert between all manner of units quickly and accurately with alemaninc's only product without more than 100 bugs.","Hasn't been updated in over "+(new Date().getUTCFullYear()==2023?"a year":((new Date().getUTCFullYear()-2022)+" years"))+" and probably never will be, but nobody uses this anyways so what's the point?","Only at alemaninc."])
+		description:nodeBulletPointGenerator(["Have you ever found yourself needing to convert between megalines and maxwells? Probably not.","But if you ever do, we have the solution.","Convert between all manner of units quickly and accurately with alemaninc's only product without more than 100 bugs.","Hasn't been updated in over "+(new Date().getUTCFullYear()===2023?"a year":((new Date().getUTCFullYear()-2022)+" years"))+" and probably never will be, but nobody uses this anyways so what's the point?","Only at alemaninc."])
 	},
 	{
 		name:"Zip Points",
